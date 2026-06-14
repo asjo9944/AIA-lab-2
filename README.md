@@ -1,5 +1,7 @@
 # Praktikum 1 – Matrix Multiplication on CPU
 
+# Contributors: Ashutosh Joshi, Pratik Waghmode, Darshil Savalia
+
 > **AI Accelerators (AIA) – Lab Assignment**
 
 Matrix multiplication is the dominant kernel in machine learning. All deep learning frameworks rely on it through heavily optimised libraries. In this lab you will start from a **naive C implementation** and apply a sequence of classical CPU optimisations to understand how hardware works and why these optimisations matter.
